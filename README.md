@@ -15,11 +15,11 @@ react-toastify,react-icons,slick-carousel etc.
 
 
 Info about my Components-
-Nav.js- Simple navbar
-Swap.js- this component contains [Create new] and [My flashcard] button to swap between pages
-MainForm.js- This is the 1st page to create new flashcards.
-FlashGrid.js- this is the 2nd page to show existing flashcards grid layout
-FlashDetails.js this is the last page to show details of any particular flashcard you choose
+Nav.js- Simple navbar. || 
+Swap.js- this component contains [Create new] and [My flashcard] button to swap between pages. ||
+MainForm.js- This is the 1st page to create new flashcards. ||
+FlashGrid.js- this is the 2nd page to show existing flashcards grid layout. ||
+FlashDetails.js this is the last page to show details of any particular flashcard you choose. ||
 
 About Mainform component -This component basicaly contains two forms.In the first form You can provide Title,Image(optional) and Description to the card.
 In second form you can provide Terms,definations,Images(optional) related to the topic.After filling all the fields you can submit this form and a new flashcard will be generated which you can see by clicking on My flashcard button.
